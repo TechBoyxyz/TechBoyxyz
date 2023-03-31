@@ -16,7 +16,7 @@ Hey there, I'm Abiodun, a WordPress and software developer passionate about craf
 <a href="https://dev.to/devabiodun" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/devabiodun" target="_blank">
+<a href="https://medium.com/@devabiodun" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>
