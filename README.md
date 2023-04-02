@@ -57,7 +57,7 @@ I'm **Abiodun Adeniji**, an entry-level software engineer with a strong interest
 
 - ❤️ I love improving remote team culture, defining a technical vision from ambiguity, and experimenting with next-level DX tooling.
 
-- 💬 Ask me about anything [here](<a href=mailto:<abiodun>biodunziik@yahoo.com?subject="Web Development Discussion"></a>)
+- 💬 Ask me about anything [here](https://mailto:biodunziik@yahoo.com?subject="Web Development Discussion")
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=abiodunadeniji&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Abiodun Adeniji' GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiodunadeniji&layout=compact&theme=buefy&hide_border=true&count_private=true" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
