@@ -79,7 +79,7 @@ I'm **Abiodun Adeniji**, an entry-level software engineer with a strong interest
 
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-%23000000.svg?style=for-the-badge&logo=notepad%2B%
+![Notepad++](https://img.shields.io/badge/Notepad++-%23000000.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -112,7 +112,7 @@ I'm **Abiodun Adeniji**, an entry-level software engineer with a strong interest
 ### CI
 
 <!-- [CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) -->
-[GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 <!-- [TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) -->
 
 <!-- ### Testing
