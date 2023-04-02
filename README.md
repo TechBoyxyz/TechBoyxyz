@@ -45,3 +45,29 @@ Hey there, I'm Abiodun, a WordPress and software developer passionate about craf
 <br />
 
 #
+
+## About me
+
+- 💼 Staff Frontend Engineer at [Stripe](https://stripe.com/connect)
+
+  _Previously [AWS Amplify (UI & JS)](https://github.com/aws-amplify/amplify-ui), [Starbucks](https://www.starbucks.com/), & [HigherEducation.com](https://highereducation.com/)_
+
+- ❤️ I love improving remote team culture, defining a technical vision from ambiguity, and experimenting with next-level DX tooling.
+
+- 💬 Ask me about anything [here](https://github.com/abiodunadeniji/abiodunadeniji/issues)
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=abiodunadeniji&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Abiodun Adeniji' GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiodunadeniji&layout=compact&theme=buefy&hide_border=true&count_private=true" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+## Technologies
+
+### Languages
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
