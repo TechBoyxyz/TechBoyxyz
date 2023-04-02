@@ -51,13 +51,11 @@ I'm **Abiodun Adeniji**, an entry-level software engineer with a strong interest
 
 ## More About me
 
-- 💼 Freelance Wordpress & PHP Development [Upwork]([https://upwork.com/](https://upwork.com/freelancers/abiodunpro))
+- 💼 Freelance Wordpress & PHP Development [Upwork](https://upwork.com/freelancers/abiodunpro)
 
-  _Previously [AWS Amplify (UI & JS)](https://github.com/aws-amplify/amplify-ui), [Starbucks](https://www.starbucks.com/), & [HigherEducation.com](https://highereducation.com/)_
+- ❤️ From WordPress wonders to Laravel luxuries, as a developer, I bring your web dreams to life with precision and panache.
 
-- ❤️ I love improving remote team culture, defining a technical vision from ambiguity, and experimenting with next-level DX tooling.
-
-- 💬 Ask me about anything [here](https://mailto:biodunziik@yahoo.com?subject="Web Development Discussion")
+- 💬 Ask me about anything [here](https://linkedin.com/in/abiodun-adeniji)
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=abiodunadeniji&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Abiodun Adeniji' GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiodunadeniji&layout=compact&theme=buefy&hide_border=true&count_private=true" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
