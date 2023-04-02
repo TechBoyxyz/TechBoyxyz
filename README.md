@@ -27,8 +27,6 @@ I'm **Abiodun Adeniji**, an entry-level software engineer with a strong interest
 
 ---
 
-<br />
-
 ### More About me
 
 - 💼 Freelance Wordpress & PHP Development [Upwork](https://upwork.com/freelancers/abiodunpro)
