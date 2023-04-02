@@ -2,10 +2,13 @@
 
 **`Wordpress Developer | Entry-level Software Developer`**
 
-Hey there, I'm Abiodun, a WordPress and software developer passionate about crafting amazing web experiences that solve real-world problems. With my skills in full-stack development, I bring ideas to life, from planning and design to implementation and testing. As an entry-level developer, I am committed to honing my craft and continuously learning new technologies to create innovative solutions. Check out my portfolio and let's collaborate to build something great!
+Hey there, I'm Abiodun, a WordPress and software developer passionate about crafting amazing web experiences that solve real-world problems. With my skills in full-stack development, I bring ideas to life, from planning and design to implementation and testing. As an entry-level <b>software engineer</b>, I am committed to honing my craft and continuously learning new technologies to create innovative solutions. Check out my portfolio and let's collaborate to build something great!
 
-   <p align="left">
-     ## Connect with me  
+---
+
+## Connect with me
+
+   <p align="left">  
 <div align="center">
 <a href="https://github.com/abiodunadeniji" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
