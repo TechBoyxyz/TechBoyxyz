@@ -49,15 +49,15 @@ I'm **Abiodun Adeniji**, an entry-level software engineer with a strong interest
 
 #
 
-## About me
+## More About me
 
-- 💼 Staff Frontend Engineer at [Stripe](https://stripe.com/connect)
+- 💼 Freelance Wordpress & PHP Development [Upwork]([https://upwork.com/](https://upwork.com/freelancers/abiodunpro))
 
   _Previously [AWS Amplify (UI & JS)](https://github.com/aws-amplify/amplify-ui), [Starbucks](https://www.starbucks.com/), & [HigherEducation.com](https://highereducation.com/)_
 
 - ❤️ I love improving remote team culture, defining a technical vision from ambiguity, and experimenting with next-level DX tooling.
 
-- 💬 Ask me about anything [here](https://github.com/abiodunadeniji/abiodunadeniji/issues)
+- 💬 Ask me about anything [here](<a href=mailto:<abiodun>biodunziik@yahoo.com?subject="Web Development Discussion"></a>)
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=abiodunadeniji&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Abiodun Adeniji' GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiodunadeniji&layout=compact&theme=buefy&hide_border=true&count_private=true" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
