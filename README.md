@@ -62,6 +62,8 @@ I'm **Abiodun Adeniji**, an entry-level software engineer with a strong interest
 
 ---
 
+<br />
+
 ### Frameworks, Platforms and Libraries
 
 <!-- [Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) -->
