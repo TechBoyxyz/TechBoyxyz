@@ -1,8 +1,8 @@
-# ⚡ Abiodun Adeniji
+<p align="center"><a href="https://linkedin.com/in/abiodun-adeniji"><img width="80%" src="https://rishavanand.github.io/static/images/greetings.gif" /></a></p>
 
-**`Wordpress Developer | Entry-level Software Developer`**
+<br />
 
-Hey there, I'm Abiodun, a WordPress and software developer passionate about crafting amazing web experiences that solve real-world problems. With my skills in full-stack development, I bring ideas to life, from planning and design to implementation and testing. As an entry-level <b>software engineer</b>, I am committed to honing my craft and continuously learning new technologies to create innovative solutions. Check out my portfolio and let's collaborate to build something great!
+I'm **Abiodun Adeniji**, an entry-level software engineer with a strong interest in **WordPress development**, **Laravel**, and **PHP**. I'm eager to learn and grow in all areas of software development. My passion lies in creating clean, efficient code that drives outcomes for users and businesses. I'm excited to work with remote teams and contribute to projects that push the boundaries of what's possible.
 
 ---
 
