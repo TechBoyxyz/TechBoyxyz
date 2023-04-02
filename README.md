@@ -27,6 +27,21 @@ I'm **Abiodun Adeniji**, an entry-level software engineer with a strong interest
 
 ---
 
+<br />
+
+### More About me
+
+- 💼 Freelance Wordpress & PHP Development [Upwork](https://upwork.com/freelancers/abiodunpro)
+
+- ❤️ From WordPress wonders to Laravel luxuries, as a developer, I bring your web dreams to life with precision and panache.
+
+- 💬 Ask me about anything [here](https://linkedin.com/in/abiodun-adeniji)
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=abiodunadeniji&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Abiodun Adeniji' GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiodunadeniji&layout=compact&theme=buefy&hide_border=true&count_private=true" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+## Technologies
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -47,22 +62,7 @@ I'm **Abiodun Adeniji**, an entry-level software engineer with a strong interest
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-
-
-<br />
-
-### More About me
-
-- 💼 Freelance Wordpress & PHP Development [Upwork](https://upwork.com/freelancers/abiodunpro)
-
-- ❤️ From WordPress wonders to Laravel luxuries, as a developer, I bring your web dreams to life with precision and panache.
-
-- 💬 Ask me about anything [here](https://linkedin.com/in/abiodun-adeniji)
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=abiodunadeniji&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Abiodun Adeniji' GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiodunadeniji&layout=compact&theme=buefy&hide_border=true&count_private=true" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-## Technologies
+---
 
 ### Frameworks, Platforms and Libraries
 
