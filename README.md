@@ -2,7 +2,7 @@
 
 <br />
 
-I'm **Abiodun Adeniji**, a software developer with a passion for creating innovative web solutions: **WordPress development**, **Laravel**, and **PHP**. I'm eager to learn and grow in all areas of software development. My passion lies in creating clean, efficient code that drives outcomes for users and businesses. I'm excited to work with remote teams and contribute to projects that push the boundaries of what's possible.
+I'm **Abiodun Adeniji**, a software developer with passion for creating innovative web solutions: **WordPress development**, **Laravel**, and **PHP**. I'm eager to learn and grow in all areas of software development. My passion lies in creating clean, efficient code that drives outcomes for users and businesses. I'm excited to work with remote teams and contribute to projects that push the boundaries of what's possible.
 
 ---
 
