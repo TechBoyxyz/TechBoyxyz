@@ -1,4 +1,4 @@
-<p align="center"><a href="https://linkedin.com/in/abiodun-adeniji"><img width="80%" src="https://rishavanand.github.io/static/images/greetings.gif" /></a></p>
+<!-- <p align="center"><a href="https://linkedin.com/in/abiodun-adeniji"><img width="80%" src="https://rishavanand.github.io/static/images/greetings.gif" /></a></p> -->
 
 <br />
 
