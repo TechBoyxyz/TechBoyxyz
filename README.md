@@ -52,6 +52,11 @@ I'm **Abiodun Adeniji**, a software developer with passion for creating innovati
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-%23434B58.svg?style=for-the-badge&logo=elementor&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-%23326C9E.svg?style=for-the-badge&logo=drupal&logoColor=white)
+
 
 ### IDEs/Editors
 
