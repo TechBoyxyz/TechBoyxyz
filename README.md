@@ -29,7 +29,7 @@ I'm **Abiodun Adeniji**, a software developer with passion for creating innovati
 
 ### More About me
 
-- 💼 Freelance Wordpress & PHP Development [Upwork](https://linkedin.com/in/abiodun-adeniji) projects can be on or off upwork
+- 💼 Freelance Wordpress & PHP Development. [Upwork](https://linkedin.com/in/abiodun-adeniji), projects can be on or off upwork
 
 - ❤️ From WordPress wonders to Laravel luxuries, as a developer, I bring your web dreams to life with precision and panache.
 
